@@ -28,8 +28,12 @@ The development is described in detail in the Master's Thesis Stehr 2025:
 }
 ```
 
+## Contact
+You can contact the authors directly or via email at _SciCom.Wiki at tib.eu_
+
+
 ## Citing SciCom Wiki
-This work has been submitted to JCDL [[1]](https://doi.org/10.48550/arXiv.2511.09248), accepted, presented [[2]](https://github.com/borgnetzwerk/scicom-wiki/), and is pending publication. If you want to cite SciCom Wiki:
+This work has been submitted to JCDL [[1]](https://doi.org/10.48550/arXiv.2511.09248), accepted, presented [[2]](https://github.com/borgnetzwerk/scicom-wiki/blob/main/SciCom%20Wiki.pdf), and is pending publication. If you want to cite SciCom Wiki:
 
 ```
 @InProceedings{wittenborg_scicom_2025,
