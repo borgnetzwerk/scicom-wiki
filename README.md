@@ -1,19 +1,27 @@
 # scicom-wiki
 A Digital Library to Support the Science Communication Knowledge Infrastructure for Videos and Podcasts
 
-## Integration & Import Microservice
+The SciCom Wiki is co-developed by [BorgNetzWerk - Gesellschaft zur Vernetzung Freien Wissens e.V. (Association for the Networking of Free Knowledge)](https://borgnetzwerk.org/), in collaboration with, among others, the Joint Lab [L3S](https://www.l3s.de/) & [TIB](https://www.tib.eu/) and the MediaWiki Community.
+
+The Project "WissKomm Wiki" officially launches in 2026, developing the research prototype into a full service: Learn more by clicking on the image below or here: [borgnetzwerk.org/wisskomm-wiki-2026](https://borgnetzwerk.org/wisskomm-wiki-2026)
+
+[<img src="info_graphic.jpg">](https://borgnetzwerk.org/wisskomm-wiki-2026)
+
+## Software Components
+### Integration & Import Microservice
 [https://github.com/borgnetzwerk/integrationindri](https://github.com/borgnetzwerk/integrationindri)
 
-## Media Search Microservice
+### Media Search Microservice
 [https://github.com/borgnetzwerk/searchsnail](https://github.com/borgnetzwerk/searchsnail)
 
-## Web-Page
+### Web-Page
 [https://github.com/borgnetzwerk/dashboardduck](https://github.com/borgnetzwerk/dashboardduck)
 
-## Evaluation Survey
+## Research
+### Evaluation Survey
 [https://github.com/borgnetzwerk/2025-scicom-ki-survey](https://github.com/borgnetzwerk/2025-scicom-ki-survey)
 
-The development is described in detail in the Master's Thesis Stehr 2025:
+The software development and evaluation is described in detail in the Master's Thesis [Stehr 2025](https://doi.org/10.15488/18996):
 ```
 @article{stehr_digitale_2025,
 	title = {Eine digitale {Wissensinfrastruktur} zur {Bereitstellung} von {Informationen} über wissenschaftliche {Videos} und {Podcasts}},
@@ -28,11 +36,7 @@ The development is described in detail in the Master's Thesis Stehr 2025:
 }
 ```
 
-## Contact
-You can contact the authors directly or via email at _SciCom.Wiki at tib.eu_
-
-
-## Citing SciCom Wiki
+### Citing SciCom Wiki
 This work has been submitted to JCDL [[1]](https://doi.org/10.48550/arXiv.2511.09248), accepted, presented [[2]](https://github.com/borgnetzwerk/scicom-wiki/blob/main/SciCom%20Wiki.pdf), and is pending publication. If you want to cite SciCom Wiki:
 
 ```
@@ -48,3 +52,6 @@ This work has been submitted to JCDL [[1]](https://doi.org/10.48550/arXiv.2511.0
 	note = {arXiv:2511.09248 [cs]},
 }
 ```
+
+## Contact
+You can contact the authors directly or via email at _SciCom.Wiki at tib.eu_
