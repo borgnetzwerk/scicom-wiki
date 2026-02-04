@@ -40,16 +40,16 @@ The software development and evaluation is described in detail in the Master's T
 This work has been submitted to JCDL [[1]](https://doi.org/10.48550/arXiv.2511.09248), accepted, presented [[2]](https://github.com/borgnetzwerk/scicom-wiki/blob/main/SciCom%20Wiki.pdf), and is pending publication. If you want to cite SciCom Wiki:
 
 ```
-@InProceedings{wittenborg_scicom_2025,
+@inproceedings{wittenborg_scicom_2025,
 	author = {Wittenborg, Tim and Stehr, Niklas and Karras, Oliver and Auer, Sören},
 	title = {{SciCom} {Wiki}: {A} {Digital} {Library} to {Support} the {Science} {Communication} {Knowledge} {Infrastructure} for {Videos} and {Podcasts}},
 	shorttitle = {{SciCom} {Wiki}},
+	url = {https://ieeexplore.ieee.org/document/11363753},
+	doi = {10.1109/JCDL67857.2025.00011},
+	booktitle = {2025 {ACM}/{IEEE} {Joint} {Conference} on {Digital} {Libraries} ({JCDL})},
+	pages = {1--10},
+	month = dec,
 	year = {2025},
-	keywords = {Computer Science - Digital Libraries, Computer Science - Multimedia},
-	publisher = {arXiv},
-	url = {http://arxiv.org/abs/2511.09248},
-	doi = {10.48550/arXiv.2511.09248},
-	note = {arXiv:2511.09248 [cs]},
 }
 ```
 
