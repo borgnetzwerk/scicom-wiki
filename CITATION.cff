@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Wittenborg"
+  given-names: "Tim"
+  orcid: "https://orcid.org/0009-0000-9933-8922"
+- family-names: "Stehr"
+  given-names: "Niklas"
+- family-names: "Karras"
+  given-names: "Oliver"
+  orcid: "https://orcid.org/0000-0001-5336-6899"
+- family-names: "Auer"
+  given-names: "Sören"
+  orcid: "https://orcid.org/0000-0002-0698-2864"
+title: "My Research Software"
+version: 1.0.0
+// doi: 
+date-released: 2015-12-15
+url: "https://github.com/borgnetzwerk/scicom-wiki"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Wittenborg"
+    given-names: "Tim"
+    orcid: "https://orcid.org/0009-0000-9933-8922"
+  - family-names: "Stehr"
+    given-names: "Niklas"
+  - family-names: "Karras"
+    given-names: "Oliver"
+    orcid: "https://orcid.org/0000-0001-5336-6899"
+  - family-names: "Auer"
+    given-names: "Sören"
+    orcid: "https://orcid.org/0000-0002-0698-2864"
+  doi: "10.1109/JCDL67857.2025.00011"
+  url: "https://ieeexplore.ieee.org/document/11363753"
+  journal: "2025 ACM/IEEE Joint Conference on Digital Libraries (JCDL)"
+  start: 1
+  end: 10
+  title: "SciCom Wiki: A Digital Library to Support the Science Communication Knowledge Infrastructure for Videos and Podcasts"
+  // issue: 1
+  // volume: 1
+  month: 12
+  year: 2025
