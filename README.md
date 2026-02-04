@@ -37,7 +37,7 @@ The software development and evaluation is described in detail in the Master's T
 ```
 
 ### Citing SciCom Wiki
-This work has been submitted to JCDL [[1]](https://doi.org/10.48550/arXiv.2511.09248), accepted, presented [[2]](https://github.com/borgnetzwerk/scicom-wiki/blob/main/SciCom%20Wiki.pdf), and is pending publication. If you want to cite SciCom Wiki:
+This work has been submitted to JCDL [[1]](https://doi.org/10.48550/arXiv.2511.09248), accepted, presented [[2]](https://github.com/borgnetzwerk/scicom-wiki/blob/main/SciCom%20Wiki.pdf), and published [[3]](https://ieeexplore.ieee.org/document/11363753). If you want to cite SciCom Wiki:
 
 ```
 @inproceedings{wittenborg_scicom_2025,
